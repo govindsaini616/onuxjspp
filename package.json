@@ -1,5 +1,5 @@
 {
-  "name": "jspp",
+  "name": "jspp_atompackage",
   "main": "./lib/jspp",
   "version": "1.6.0",
   "description": "JS++ language support - syntax highlighting and more.",
