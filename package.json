@@ -1,5 +1,5 @@
 {
-  "name": "onux-jspp",
+  "name": "jspp",
   "main": "./lib/jspp",
   "version": "1.5.0",
   "description": "JS++ language support - syntax highlighting and more.",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Onux-jspp/atomjspp.git"
+    "url": "https://github.com/govindsaini616/onuxjspp.git"
   },
   "license": "MIT",
   "engines": {
