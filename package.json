@@ -1,7 +1,7 @@
 {
   "name": "jspp_atompackage",
   "main": "./lib/jspp",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "JS++ language support - syntax highlighting and more.",
   "keywords": [],
   "activationCommands": {
