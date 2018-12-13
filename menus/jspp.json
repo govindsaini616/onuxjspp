@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jspp",
+        "command": "jspp:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jspp",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jspp:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
