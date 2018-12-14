@@ -1,7 +1,7 @@
 {
   "name": "xjspp",
   "main": "./lib/jspp",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "JS++ language support - syntax highlighting and more.",
   "keywords": [],
   "activationCommands": {
