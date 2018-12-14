@@ -1,7 +1,7 @@
 {
   "name": "jspp",
   "main": "./lib/jspp",
-  "version": "2.0.0-0",
+  "version": "2.1.0-0",
   "description": "JS++ language support - syntax highlighting and more.",
   "keywords": [],
   "activationCommands": {
