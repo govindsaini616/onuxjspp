@@ -1,5 +1,5 @@
 {
-  "name": "xjspp",
+  "name": "jspp",
   "main": "./lib/jspp",
   "version": "2.3.1",
   "description": "JS++ language support - syntax highlighting and more.",
